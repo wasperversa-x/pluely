@@ -63,7 +63,7 @@
       "endpoints": [
         "https://pluely.com/api/update"
       ],
-      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDgzQkJGMkYzRDlBRjgwNEUKUldST2dLL1o4L0s3ZzUrRmY4UDB1aGF0RkdXd3lZQUZZcnh0NnZjaDg1VEUrQTlHeitXNVF0NGgK",
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDY5MjA3OUZCMTJFMUY3RTUKUldUbDkrRVMrM2tnYWRuZ1h1YXEvRVUwMW8zUS9IYXJzVzE4YlczNzdldW8zdktrLzlXU01CWWIK",
       "windows": {
         "installMode": "passive"
       }
